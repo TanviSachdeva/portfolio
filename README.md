@@ -1,11 +1,576 @@
-# Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-# Education
-- Ph.D., Physics | The [University](url) of Texas at Dallas (May 2022)
-- M.S., Physics | The University of Texas at Dallas (December 2019)
-- B.S., Physics | The University of Texas at Dallas (May 2017)
-# Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tanvi Sachdeva Portfolio</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/aos.css?ver=1.1.0" rel="stylesheet">
+    <link href="css/bootstrap.min.css?ver=1.1.0" rel="stylesheet">
+    <link href="css/main.css?ver=1.1.0" rel="stylesheet">
+    <noscript>
+      <style type="text/css">
+        [data-aos] {
+            opacity: 1 !important;
+            transform: translate(0) scale(1) !important;
+        }
+      </style>
+    </noscript>
+    <meta property="og:image" content="https://tanvisachdeva.github.io/images/tanvi.jpg" />
+<meta property="og:url"content="https://tanvisachdeva.github.io/" />
 
-Uncovered and **corrected** missing **step** in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+<meta property="og:title" content="Tanvi Sachdeva Portfolio" />
+  </head>
+  <body id="top">
+    <header>
+      <div class="profile-page sidebar-collapse">
+        <nav class="navbar navbar-expand-lg fixed-top navbar-transparent bg-primary" color-on-scroll="400">
+          <div class="container">
+            <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip">Tanvi Sachdeva Portfolio</a>
+              <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-bar bar1"></span><span class="navbar-toggler-bar bar2"></span><span class="navbar-toggler-bar bar3"></span></button>
+            </div>
+            <div class="collapse navbar-collapse justify-content-end" id="navigation">
+              <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#about">About</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#skill">Skills</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#portfolio">Portfolio</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#experience">Experience</a></li>
+                <li class="nav-item"><a class="nav-link smooth-scroll" href="#contact">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </header>
+    <div class="page-content">
+      <div>
+<div class="profile-page">
+  <div class="wrapper">
+    <div class="page-header page-header-small" filter-color="green">
+      <div class="page-header-image" data-parallax="true" style="background-image: url('images/code_bg.jpg')"></div>
+      <div class="container">
+        <div class="content-center">
+          <div class="cc-profile-image"><a href="#"><img src="images/tanvi.PNG" alt="Image"/></a></div>
+          <a class="btn btn-default btn-round btn-lg btn-icon" href="https://www.linkedin.com/in/sachdevatanvi2311/" rel="tooltip" title="" target="_blank" data-original-title="Follow me on Linkedin"><i class="fa fa-linkedin" style="font-size: 2rem;"></i></a>
+          <a class="btn btn-default btn-round btn-lg btn-icon" href="https://github.com/TanviSachdeva?tab=repositories" rel="tooltip" title="" target="_blank" data-original-title="Follow me on Github"><i class="fa fa-github"></i></a>
+
+          
+          <div class="h2 title">Tanvi Sachdeva</div>
+          <p class="category text-white">Data & AI</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" href="resume/tanvi_resume.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+        </div>
+      </div>
+      <div class="section">
+        <div class="container">
+          
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section" id="about">
+  <div class="container">
+    <div class="card" data-aos="fade-up" data-aos-offset="10">
+      <div class="row">
+        <div class="col-lg-6 col-md-12">
+          <div class="card-body">
+            <div class="h4 mt-0 title">About</div>
+            <p>10 years of experience in implementing, delivering Data Architecture and 
+Analytics solutions and in leading end to end delivery of full-stack 
+applications starting from requirement understanding, development to 
+deployment, for a diverse set of clientele ranging multiple industries and 
+geographies. Have international experience of working in France with 
+Airbus. Proactive, Self-directed, Solution oriented and Result driven, have 
+experience in leading and managing project delivery with significant 
+experience as an individual contributor. Recently turned <b>Canadian 
+Permanent Resident</b> authorized to work and stay there indefinitely without 
+any restriction.
+ 
+<p>Being a quick learner, I would be more than open to explore <b>tangential opportunities.</b></p>
+
+<p><b>Certifications:</b> Databricks Certified Professional Data Engineer, Microsoft Certified Azure Fundamentals </p>. 
+
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-12">
+          <div class="card-body">
+            <div class="h4 mt-0 title">Basic Information</div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
+              <div class="col-sm-8">sachdevatanvi2311@gmail.com</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Phone:</strong></div>
+              <div class="col-sm-8">+91-9168588710</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Address:</strong></div>
+              <div class="col-sm-8">Hinjewadi, Pune, India</div>
+            </div>
+            <div class="row mt-3">
+              <div class="col-sm-4"><strong class="text-uppercase">Language:</strong></div>
+              <div class="col-sm-8">English, Hindi</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section" id="skill">
+  <div class="container">
+    <div class="h4 text-center mb-4 title">Professional Skills</div>
+    <div class="card" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+      <div class="card-body">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">PySpark, Python, 
+Databricks, Azure, 
+Google Cloud Platform, 
+Qlik, ETL/ELT pipelines, 
+Data Modeling, Data 
+Warehousing, Workflows, Data 
+Lineage, Data 
+Conversion and 
+Migration, Production 
+Deployment, Power BI, 
+Data Engineering, 
+Lakehouse</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">React, Angular, 
+JavaScript, Typescript, 
+HTML, SCSS, Bootstrap, 
+SASS, WEBAPI, C#, .NET, 
+OOPS, Microservices</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">SQL, NoSQL databases 
+(MongoDB) 
+
+
+            </span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">GIT, Azure DevOps, 
+Jenkins, Swagger, IIS</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">          
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Azure Databricks, Data 
+Factory, Azure Synapse, 
+Azure Data Lake 
+Storage, Containers, 
+Databricks File System, 
+Delta</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Agile (Scrum, Kanban, 
+JIRA), Waterfall, TestDriven Development 
+(TDD)
+</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Generative AI</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Large Language Models</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-6">
+            <div class="progress-container progress-primary"><span class="progress-badge">Langchain</span>
+              <div class="progress">
+                <div class="progress-bar progress-bar-primary" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 90%;"></div><span class="progress-value"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+<!--      <div class="card-body cc-experience-header">
+            <p></p>
+            <div class="h5">TECHNICAL STACK:</div>
+            <p>
+<ul>
+<li><b>Tools:</b> Databricks, Visual Studio, Visual Studio code, Android Studio, AdobeXD, Balsamiq, Swagger, Studio 3T, TOAD, SQL Server, JIRA</li>
+<li><b>Languages:</b> Python, Pyspark, C#, OOPS, RESTFul WEB API</li>
+<li><b>Web Technologies:</b> JavaScript, Typescript, React, HTML, CSS, Bootstrap, SCSS, Angular
+<li><b>Methodologies:</b> Agile, Scrum, SAFe</li>
+<li><b>Databases:</b> Oracle, MYSQL(SQL) & MongoDB(NoSQL)</li>
+<li><b>Version Control:</b> GIT (GITHUB, GITHUBDESKTOP, GITBASH)</li>
+</ul>
+</p>
+          </div> -->
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
+<div class="section" id="experience">
+  <div class="container cc-experience">
+    <div class="h4 text-center mb-4 title">Work Experience</div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>April 2022 - Present</p>
+            <div class="h5">Accenture</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Data Architecture Associate Manager</div>
+            <p class="category">Pune, India</p>
+<!--             <p>Client - International Retail brand, International healthcare, International Banking
+                <p>Python, Pyspark, Databricks, Qlik, Power
+                    BI, Azure, Devops, Google cloud, GCP, React 18, Redux, SCSS, Balsamiq,
+                    Typescript, React bootstrap, ReactJS, Swagger,
+                    GIT, Adobe XD, Scrum, Http, Microservices, Azure -->
+                  
+              
+
+<ul>
+  <li>Lead the data engineering team for end-to-end 
+design and development of data pipelines, workflows, 
+migrations of applications from Qlik to PySpark (Data 
+migration project), automating complex data 
+processes to enhance scalability and performance</li>
+  <li>Develop ETL (extract, transform, load) processes to 
+help extract and manipulate data from multiple 
+sources</li>
+  <li>Strong attention to detail and understanding of 
+concepts to provide perspective on frontend and 
+backend technologies and their overall impact on 
+creative process</li>
+<li>Understanding project documents, customer demands, and product objectives to provide quality and desired deliverables</li>
+<li>Collaborate with cross-functional teams to 
+understand business requirements and translate them 
+into data-driven solutions</li>
+<li>Perform code reviews and provide constructive 
+feedback</li>
+<li>Build, maintain, and deploy data products for 
+analytics and data science teams on Azure cloud 
+platforms</li>
+  <li>Proficient in data quality frameworks, automation, 
+and leveraging advanced tools to drive impactful 
+business outcomes</li>
+  <li>Deliver and implement scalable Data & Analytics 
+solutions on Azure, Databricks and Power BI, ensuring 
+alignment with client objectives and value delivery</li>
+
+
+</ul>
+
+</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>June 2019 - April 2022</p>
+            <div class="h5">Sopra Steria India</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Technical Lead</div>
+            <p class="category">Noida Area, India</p>
+<!--             <p>Client - European multinational aerospace leader
+            <p>Angular, React, Javascript, Typescript, .NET REST
+              Webapi, C#, Agile, GIT, IIS, Mongodb -->
+              
+            
+<ul>
+  <li>Lead and performed end to end delivery of web 
+applications business requirements, coding, 
+debugging, deployment & testing. Contribute to 
+the end-to-end codebase of an application 
+including rich frontend, thoughtful web APIs, and 
+well-designed databases</li>
+  <li>Participate in all scrum ceremonies. Involved in 
+scoping and estimation of user stories during PI 
+planning, with Product owners/client/business
+</li>
+  <li>Encourage junior resources to take responsibility for 
+their development. Share acquired skills and 
+business knowledge with them</li>
+  <li>Create detailed specifications for complex 
+changes and maintaining technical/user manual 
+documentation</li>
+              <li>Create responsive web applications using Angular and backend in .NET REST WEBAPI. Good knowledge of design patterns.</li>
+<li>Participate in all scrum ceremonies. Involved in
+  scoping and estimation of user stories during PI
+  planning, with Product owners/client/business.</li>
+<li>Handle multiple tasks in same time period and have 
+ability to handle complex issues</li>
+
+</ul>
+
+</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>June 2018 - June 2019</p>
+            <div class="h5">HCL Technologies Limited</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Lead Engineer</div>
+            <p class="category">Noida area, India</p>
+<!--             <p>Client - American multinational technology leader
+            <p>ASP.net MVC, GIT, Azure, jQuery, Ajax,
+              JavaScript, CSS, C# -->
+              <ul>
+                <li>Performed more than 30 bugs resolution per Sprint 
+in software application based on technical 
+expertise and developing solutions in accordance 
+with quality accredited standards (W3C and 
+accessibility guidelines)</li>
+<li>Mentored team members on technical front so that
+  quality code is delivered with minimal
+  postproduction bugs/issues.
+  </li>
+
+
+
+</ul></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>August 2015 - April 2018</p>
+            <div class="h5">Edgeverve Systems Limited, an Infosys company</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Product Integration Engineer</div>
+              <p class="category">Pune, India</p>
+<!--               <p>Client - American multinational telecom leader
+                <p>.NET MVC, SQL, Jquery, Javascript, Angular, C# -->
+            
+<ul>
+  <li>Full-stack, Front-end developer</li>
+  <li>Analyze business problems, develop technology
+    solutions to those problems and manage project
+    through its lifecycle.</li>
+<li>Used critical thinking to break down problems,
+  evaluate solutions and make decisions.</li>
+<li>Providing timely deliverables to client, solving post production bugs/issues were handled.</li></ul></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-experience-header">
+            <p>September 2014 - July 2015</p>
+            <div class="h5">Infosys Limited</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Systems Engineer</div>
+              <p class="category">Pune, India</p>
+<!--             <p>Client - American multinational telecom leader
+            <p>C#, .NET, Angular JS, SQL -->
+<ul>
+  <li>Monitoring the software engineering processes and methods used to ensure quality.Is to ensure that the ongoing processes and software ensure high quality of
+    the end product being delivered to the customers.</li>
+    <li>Extensively involved in various phases of SDLC</li>
+<li>Full stack development</li>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="section">
+  <div class="container cc-education">
+    <div class="h4 text-center mb-4 title">Education</div>
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-education-header">
+            <p>2010 - 2014</p>
+            <div class="h5">Bachelor's Degree</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Bachelor of Technology in Computer Science Engineering</div>
+            <p class="category">Rajasthan Technical University</p>
+            <p>A Bachelor of Technology is an undergraduate academic degree conferred after the completion of a four-year program.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="card">
+      <div class="row">
+        <div class="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body cc-education-header">
+            <p>2009 - 2010</p>
+            <div class="h5">Senior Secondary School</div>
+          </div>
+        </div>
+        <div class="col-md-9" data-aos="fade-left" data-aos-offset="50" data-aos-duration="500">
+          <div class="card-body">
+            <div class="h5">Science with Mathematics</div>
+            <p class="category">CBSE - Central Board of Secondary Education</p>
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--
+<div class="section" id="reference">
+  <div class="container cc-reference">
+    <div class="h4 mb-4 text-center title">References</div>
+    <div class="card" data-aos="zoom-in">
+      <div class="carousel slide" id="cc-Indicators" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li class="active" data-target="#cc-Indicators" data-slide-to="0"></li>
+          <li data-target="#cc-Indicators" data-slide-to="1"></li>
+          <li data-target="#cc-Indicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row">
+              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-1.jpg" alt="Image"/>
+                <div class="h5 pt-2">Aiyana</div>
+                <p class="category">CEO / WEBM</p>
+              </div>
+              <div class="col-lg-10 col-md-9">
+                <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-2.jpg" alt="Image"/>
+                <div class="h5 pt-2">Braiden</div>
+                <p class="category">CEO / Creativem</p>
+              </div>
+              <div class="col-lg-10 col-md-9">
+                <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="row">
+              <div class="col-lg-2 col-md-3 cc-reference-header"><img src="images/reference-image-3.jpg" alt="Image"/>
+                <div class="h5 pt-2">Alexander</div>
+                <p class="category">CEO / Webnote</p>
+              </div>
+              <div class="col-lg-10 col-md-9">
+                <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>-->
+<div class="section" id="contact">
+  <div class="cc-contact-information" style="background-image: url('images/staticmap.png')">
+    <div class="container">
+      <div class="cc-contact">
+        <div class="row">
+          <div class="col-md-9">
+            <div class="card mb-0" data-aos="zoom-in">
+              <div class="h4 text-center title">Contact Me</div>
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <p class="mb-0"><strong>Address </strong></p>
+                    <p class="pb-2">Hinjewadi, Pune, India</p>
+                    <p class="mb-0"><strong>Phone</strong></p>
+                    <p class="pb-2">+91-9168588710</p>
+                    <p class="mb-0"><strong>Email</strong></p>
+                    <p>sachdevatanvi2311@gmail.com</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div>
+    </div>
+    <footer class="footer">
+      <div class="container text-center">
+
+ <a class="cc-facebook btn btn-link" href="https://www.linkedin.com/in/sachdevatanvi2311/" rel="tooltip" title="Follow me on Linkedin" target="_blank"><i class="fa fa-linkedin fa-3x"></i></a>
+            
+            <a class="btn btn-link" href="https://github.com/TanviSachdeva?tab=repositories" rel="tooltip" title="Follow me on Github" target="_blank"><i class="fa fa-github fa-3x"></i></a>
+
+</div>
+      <div class="h4 title text-center">Tanvi Sachdeva</div>
+      <div class="text-center text-muted">
+        <p>&copy; Tanvi Sachdeva. All rights reserved.</p>
+      </div>
+    </footer>
+    <script src="js/core/jquery.3.2.1.min.js?ver=1.1.0"></script>
+    <script src="js/core/popper.min.js?ver=1.1.0"></script>
+    <script src="js/core/bootstrap.min.js?ver=1.1.0"></script>
+    <script src="js/now-ui-kit.js?ver=1.1.0"></script>
+    <script src="js/aos.js?ver=1.1.0"></script>
+    <script src="scripts/main.js?ver=1.1.0"></script>
+  </body>
+</html>
